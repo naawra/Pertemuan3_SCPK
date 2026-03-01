@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 
-# Membuat data kotor buatan (dummy data) Kafe Anitanaura
 data = {
     'Bulan': ['Jan', 'Feb', 'Mar', 'Apr', 'Mei', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct'],
     'Penjualan_Kopi': [150, 200, np.nan, 220, 250, 170, 300, 190, 210, 260],
@@ -13,4 +12,4 @@ data = {
 
 df_setup = pd.DataFrame(data)
 df_setup.to_csv('data_kafe.csv', index=False)
-print("File 'data_kafe.csv' berhasil dibuat! Siap untuk dianalisis.")
+print("File 'data_kafe.csv' berhasil dibuat!")
