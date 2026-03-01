@@ -1,0 +1,11 @@
+Bulan,Penjualan_Kopi,Harga_Rata2,Rating,Usia_Pelanggan,Metode_Bayar
+Jan,150.0,25000,85,22.0,QRIS
+Feb,200.0,30000,-99,,Cash
+Mar,,28000,90,25.0,QRIS
+Apr,220.0,error,88,20.0,Kartu
+Mei,250.0,32000,95,30.0,QRIS
+Jun,170.0,27000,80,28.0,Cash
+Jul,300.0,35000,92,24.0,QRIS
+Aug,190.0,30000,70,35.0,Kartu
+Sep,210.0,31000,-99,21.0,QRIS
+Oct,260.0,33000,89,,QRIS
